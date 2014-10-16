@@ -1,0 +1,13 @@
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\Bin\Debug\ApplicationIcon.png
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\Bin\Debug\Background.png
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\Bin\Debug\geoDemo.dll
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\Bin\Debug\geoDemo.pdb
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\Bin\Debug\AppManifest.xaml
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\Bin\Debug\geoDemo.xap
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\obj\Debug\geoDemo.csprojResolveAssemblyReference.cache
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\obj\Debug\App.g.cs
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\obj\Debug\MainPage.g.cs
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\obj\Debug\geoDemo.g.resources
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\obj\Debug\geoDemo.dll
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\obj\Debug\geoDemo.pdb
+C:\ROGER\PROJECTES\WPHONE\geoDemo\geoDemo\obj\Debug\XapCacheFile.xml
