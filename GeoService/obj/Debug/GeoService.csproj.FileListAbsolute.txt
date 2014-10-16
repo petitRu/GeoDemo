@@ -1,0 +1,4 @@
+C:\ROGER\PROJECTES\WPHONE\geoDemo\GeoService\Bin\Debug\GeoService.dll
+C:\ROGER\PROJECTES\WPHONE\geoDemo\GeoService\Bin\Debug\GeoService.pdb
+C:\ROGER\PROJECTES\WPHONE\geoDemo\GeoService\obj\Debug\GeoService.dll
+C:\ROGER\PROJECTES\WPHONE\geoDemo\GeoService\obj\Debug\GeoService.pdb

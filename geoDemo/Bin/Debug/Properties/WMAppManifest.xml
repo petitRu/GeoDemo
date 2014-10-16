@@ -24,10 +24,7 @@
     <Tasks>
       <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
       <ExtendedTask Name="BackgroundTask">
-        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" 
-                                 Name="Service" 
-                                Source="GeoService" 
-                                Type="GeoService.ScheduledAgent" />
+        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" Name="Service" Source="GeoService" Type="GeoService.ScheduledAgent" />
       </ExtendedTask>
     </Tasks>
     <Tokens>
@@ -52,3 +49,4 @@
     </ScreenResolutions>
   </App>
 </Deployment>
+<!-- WPSDK Version 8.0.9900 -->
